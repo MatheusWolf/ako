@@ -1,2 +1,2 @@
 # ako
-Projeto web para praticar o curso.dev
+Projeto web para praticar o curso.dev e git
