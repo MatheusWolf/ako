@@ -1,4 +1,22 @@
 {
+  "name": "ako",
+  "version": "1.0.0",
+  "description": "Projeto web para praticar o curso.dev e git",
+  "homepage": "https://github.com/MatheusWolf/ako#readme",
+  "bugs": {
+    "url": "https://github.com/MatheusWolf/ako/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusWolf/ako.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "next": "^13.1.6",
     "react": "^18.2.0",
