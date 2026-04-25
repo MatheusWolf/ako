@@ -1,0 +1,45 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #06070b;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 24px;
+}
+
+.card {
+  width: 100%;
+  max-width: 760px;
+  padding: 48px 34px;
+  text-align: center;
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+}
+
+.badge {
+  display: inline-block;
+  margin-bottom: 26px;
+  padding: 10px 18px;
+  border-radius: 999px;
+  background: #11131b;
+  color: #d7cfff;
+  font-size: 14px;
+}
+
+.logo {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto 28px;
+  border-radius: 50%;
+  border: 14px solid white;
+}
+
+.footer {
+  display: block;
+  margin-top: 24px;
+  color: #9ca3c9;
+}
