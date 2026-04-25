@@ -20,7 +20,7 @@ export default function Home() {
           <h1>Olá, jovem.</h1>
 
           <p>
-            Você encontrou a <strong>Vako</strong> cedo demais. Ainda está tudo
+            Você encontrou no <strong>Vako</strong> cedo demais. Ainda está tudo
             meio <strong>vazio</strong> por aqui.
           </p>
 
