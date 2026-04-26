@@ -6,6 +6,7 @@ export default function Home() {
     <>
       <Head>
         <title>Vako</title>
+        <link rel="icon" href="/icon.png" />
         <meta name="description" content="Você encontrou a Vako cedo demais." />
       </Head>
 
